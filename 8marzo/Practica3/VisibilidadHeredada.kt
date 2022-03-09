@@ -1,0 +1,4 @@
+class VisibilidadHeredada: Visibilidad {
+
+    constructor()
+}
